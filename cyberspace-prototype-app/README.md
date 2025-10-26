@@ -1,61 +1,22 @@
-# 🧩 CyberScape – iOS Cybersecurity Awareness App
-**Type:** SwiftUI Mobile Application  
-**Language:** Swift (SwiftUI, Combine)  
-**Author:** Armela Cupi  
-**Date:** April 2024  
+#  CyberScape Project
 
----
+Hardware Requirements:
 
-## 🧠 Overview
-CyberScape is a **gamified iOS application** designed to teach users about cybersecurity threats and privacy awareness in an interactive way.  
-It uses quizzes, scenario-based decisions, and educational modules to help users learn how to detect and respond to common cyber threats.
+To run and demonstrate this project effectively, ensure you have the following setup:
 
----
+1)iPhone: The project is optimized for use on an iPhone.
+2)USB-C Cable: A USB-C cable is required to connect the iPhone to your laptop. This connection is necessary for the proper execution and demonstration of the project.
 
-## 💡 Features
-- **Interactive Tutorials:** Walkthroughs on real-world cybersecurity threats.  
-- **Threat Scenarios:** Users make decisions and see outcomes based on their actions.  
-- **Progress Tracking:** Tracks scores and rewards user awareness improvements.  
-- **Clean SwiftUI Interface:** Fully built using Apple’s SwiftUI framework.  
-- **Local Data Storage:** Persists user progress between sessions.
 
----
+Setup Instructions:
 
-## 🧰 Tech Stack
-- **Language:** Swift 5  
-- **Framework:** SwiftUI  
-- **Architecture:** MVVM  
-- **Tools:** Xcode, SwiftData (for persistence)  
-- **Platform:** iOS 17  
+1)Connect Your iPhone to Your Laptop: Use the USB-C cable to connect your iPhone to your laptop. This setup is crucial for the software to function as designed.
+2)Running the Project: With the iPhone connected, select the iphone you using on swiftui and then run the project.
 
----
+Please ensure the connection between your iPhone and laptop is secure during demonstrations to avoid any disruptions.
 
-## 📂 Project Structure
-| Folder/File | Description |
-|--------------|-------------|
-| `CyberScapeApp.swift` | App entry point |
-| `HomePageView.swift` | Main dashboard |
-| `TutorialView.swift` | Cyber tutorial interface |
-| `CyberThreatsOverviewView.swift` | List of key cyber threats |
-| `GameplayInstructionsView.swift` | Interactive simulation page |
-| `ProgressRewardsView.swift` | Displays rewards and stats |
-| `SettingsView.swift` | App configuration |
-| `Terminal Saved Output.txt` | Sample debug log and test output |
+For the sign in add these details:
+email: user@example.com 
+password: password
 
----
-
-## 🧠 Learning Objectives
-This project was developed to combine **software engineering skills** with **cybersecurity education** by:
-- Implementing privacy-focused design.
-- Demonstrating secure coding practices in Swift.
-- Promoting cybersecurity literacy through a mobile platform.
-
----
-
-## 📱 Preview
-*(Add screenshots here later — e.g. main dashboard, quiz page, threat simulation)*
-
----
-
-**Author:** Armela Cupi  
-📎 [LinkedIn](https://linkedin.com/in/armela-cupi) | [GitHub](https://github.com/Armela158)
+When adding the date of birth, I have created it for adults, so should be 18+.
